@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo-app {
+    font-size: 2rem;
+    font-family: "Rubik-Moonrocks", sans-serif;;
+    color: #d9b003;
+
+
+}
+
+.container-app {
+    font-size: 0.875rem;
+
+
+    background: linear-gradient( rgba(0,0,0,0.5), rgba(0, 0, 0, 0.7) ),url(./components/photos/zdjecie1.jpg) no-repeat;
+
+
+    height: 100vh;
+
+    background-size: contain;
+}
+
+.nav-app {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F232C;
+    color: #FFFFFF;
+    height: 60px;
+
+
+}
+.menu {
+    display: flex;
+    flex-direction: row;
+    color: #FFFFFF;
+
+}
+.menu li {
+    padding: 0 10px;
+    list-style: none;
+
+}
+
+.container {
+    background-color: #5E5E5E;
+    background-size: cover;
+
+}
+
+.menu a{
+    color:#FFFFFF;
+    text-decoration: none;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

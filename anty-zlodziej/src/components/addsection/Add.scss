@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-add {
+    background: linear-gradient( rgba(0,0,0,0.5), rgba(0, 0, 0, 0.7) ),url(../photos/zdjiecie2.jpg) no-repeat;
+    background-size: cover;
+    font-size: 1.5rem;
+    color: #d48e00;
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height:100vh;
+    line-height: 2rem;
+}
+
+.input-add {
+    margin-left: 10px;
+    height: 1.5rem;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #1F232C;
+    color: #FFFFFF;
+
+}
+
+.btn{
+    height: 3rem;
+    width: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+
+}
+
+.btn-add-section {
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 150px;
+}
+
+.btn-add-add-section {
+    background-color: #d48e00;
+    color: #ffffff;
+    font-size: 1rem;
+}
+
+.checkbox {
+    height: 1rem;
+    width: 1rem;
+    margin-left: 10px;
+}
+
+
+
+
+

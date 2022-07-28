@@ -1,0 +1,389 @@
+{
+  "thing": [
+    {
+      "equipmentCategory": "phone",
+      "equipmentBrand": "iphone",
+      "equipmentModel": "xs13",
+      "equipmentSerialNumber": "745499",
+      "id": 1
+    },
+    {
+      "equipmentCategory": "phone",
+      "equipmentBrand": "samsung",
+      "equipmentModel": "S9+",
+      "equipmentSerialNumber": "4445946",
+      "id": 2
+    },
+    {
+      "equipmentCategory": "laptop",
+      "equipmentBrand": "hp",
+      "equipmentModel": "g6",
+      "equipmentSerialNumber": "21",
+      "id": 3
+    },
+    {
+      "equipmentCategory": "tv",
+      "equipmentBrand": "philips",
+      "equipmentModel": "XSGD548",
+      "equipmentSerialNumber": "54385",
+      "id": 4
+    },
+    {
+      "equipmentCategory": "iu",
+      "equipmentBrand": "ikjn",
+      "equipmentModel": "ikjnh",
+      "equipmentSerialNumber": "ujh",
+      "id": 5
+    },
+    {
+      "equipmentCategory": "iug",
+      "equipmentBrand": "iuyg",
+      "equipmentModel": "iujyg",
+      "equipmentSerialNumber": "iujyg",
+      "id": 6
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 7
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 8
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 9
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 10
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 11
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 12
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 13
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 14
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 15
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 16
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 17
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 18
+    },
+    {
+      "equipmentCategory": "gdgf",
+      "equipmentBrand": "fdgf",
+      "equipmentModel": "dfgf",
+      "equipmentSerialNumber": "545465",
+      "id": 19
+    },
+    {
+      "equipmentCategory": "gdgf",
+      "equipmentBrand": "fdgf",
+      "equipmentModel": "dfgf",
+      "equipmentSerialNumber": "55465",
+      "id": 20
+    },
+    {
+      "equipmentCategory": "gdgf",
+      "equipmentBrand": "fdgf",
+      "equipmentModel": "dfgf",
+      "equipmentSerialNumber": "545465",
+      "id": 21
+    },
+    {
+      "equipmentCategory": "gdgf784",
+      "equipmentBrand": "fdgf564",
+      "equipmentModel": "dfgf465",
+      "equipmentSerialNumber": "546546hjg",
+      "id": 22
+    },
+    {
+      "equipmentCategory": "htdf",
+      "equipmentBrand": "fdj",
+      "equipmentModel": "fjgfjd",
+      "equipmentSerialNumber": "jfsjf",
+      "id": 23
+    },
+    {
+      "equipmentCategory": "htdf",
+      "equipmentBrand": "fdj",
+      "equipmentModel": "fjgfjd",
+      "equipmentSerialNumber": "jfsjf",
+      "id": 24
+    },
+    {
+      "equipmentCategory": "htdf",
+      "equipmentBrand": "fdj",
+      "equipmentModel": "fjgfjd",
+      "equipmentSerialNumber": "jfsjf",
+      "id": 25
+    },
+    {
+      "equipmentCategory": "htdf",
+      "equipmentBrand": "fdj",
+      "equipmentModel": "fjgfjd",
+      "equipmentSerialNumber": "jfsjf",
+      "id": 26
+    },
+    {
+      "equipmentCategory": "htdf",
+      "equipmentBrand": "fdj",
+      "equipmentModel": "fjgfjd",
+      "equipmentSerialNumber": "jfsjf",
+      "id": 27
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 28
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 29
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "21",
+      "id": 30
+    },
+    {
+      "equipmentCategory": "dhfxchd",
+      "equipmentBrand": "dshdd",
+      "equipmentModel": "sghdhs",
+      "equipmentSerialNumber": "86taeesd",
+      "id": 31
+    },
+    {
+      "equipmentCategory": "hdx",
+      "equipmentBrand": "xxhx",
+      "equipmentModel": "gzxgf",
+      "equipmentSerialNumber": "hfgfgchxg",
+      "equipmentCheckbox": "88",
+      "id": 32
+    },
+    {
+      "equipmentCategory": "hdx",
+      "equipmentBrand": "xxhx",
+      "equipmentModel": "gzxgf",
+      "equipmentSerialNumber": "hfgfgchxg",
+      "equipmentCheckbox": "55",
+      "id": 33
+    },
+    {
+      "equipmentCategory": "11",
+      "equipmentBrand": "11",
+      "equipmentModel": "11",
+      "equipmentSerialNumber": "811",
+      "equipmentCheckbox": "575",
+      "id": 34
+    },
+    {
+      "equipmentCategory": "11",
+      "equipmentBrand": "11",
+      "equipmentModel": "11",
+      "equipmentSerialNumber": "811",
+      "equipmentCheckbox": "587876",
+      "id": 35
+    },
+    {
+      "equipmentCategory": "11",
+      "equipmentBrand": "11",
+      "equipmentModel": "11",
+      "equipmentSerialNumber": "511",
+      "equipmentCheckbox": "555",
+      "id": 36
+    },
+    {
+      "equipmentCategory": "1",
+      "equipmentBrand": "1",
+      "equipmentModel": "1",
+      "equipmentSerialNumber": "1",
+      "equipmentCheckbox": "6877",
+      "id": 37
+    },
+    {
+      "equipmentCategory": "2",
+      "equipmentBrand": "2",
+      "equipmentModel": "2",
+      "equipmentSerialNumber": "2",
+      "equipmentCheckbox": "57868",
+      "id": 38
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "21",
+      "equipmentSerialNumber": "5",
+      "equipmentCheckbox": "lol",
+      "id": 39
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "54",
+      "equipmentSerialNumber": "54",
+      "equipmentCheckbox": "lol",
+      "id": 40
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "21",
+      "equipmentModel": "54",
+      "equipmentSerialNumber": "54",
+      "equipmentCheckbox": "lol",
+      "id": 41
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "5",
+      "equipmentModel": "54",
+      "equipmentSerialNumber": "54",
+      "equipmentCheckbox": "lol",
+      "id": 42
+    },
+    {
+      "equipmentCategory": "21",
+      "equipmentBrand": "54",
+      "equipmentModel": "54",
+      "equipmentSerialNumber": "54",
+      "equipmentCheckbox": "lol",
+      "id": 43
+    },
+    {
+      "equipmentCategory": "5",
+      "equipmentBrand": "54",
+      "equipmentModel": "54",
+      "equipmentSerialNumber": "54",
+      "equipmentCheckbox": "lol",
+      "id": 44
+    },
+    {
+      "equipmentCategory": "54",
+      "equipmentBrand": "54",
+      "equipmentModel": "54",
+      "equipmentSerialNumber": "54",
+      "equipmentCheckbox": "lol",
+      "id": 45
+    },
+    {
+      "equipmentCategory": "54",
+      "equipmentBrand": "54",
+      "equipmentModel": "54",
+      "equipmentSerialNumber": "54",
+      "equipmentCheckbox": "lol",
+      "id": 46
+    },
+    {
+      "equipmentCategory": "phone",
+      "equipmentBrand": "fdgh",
+      "equipmentModel": "dhgfhg",
+      "equipmentSerialNumber": "85466",
+      "equipmentCheckbox": "lol",
+      "id": 47
+    },
+    {
+      "equipmentCategory": "wefsd",
+      "equipmentBrand": "sdsf",
+      "equipmentModel": "sggfsgs",
+      "equipmentSerialNumber": "587",
+      "equipmentCheckbox": "Nie Skradziono",
+      "id": 48
+    },
+    {
+      "equipmentCategory": "wefsd",
+      "equipmentBrand": "sdsf",
+      "equipmentModel": "sggfsgs",
+      "equipmentSerialNumber": "6",
+      "equipmentCheckbox": "Nie Skradziono",
+      "id": 49
+    },
+    {
+      "equipmentCategory": "fgfcg",
+      "equipmentBrand": "fxgjfg",
+      "equipmentModel": "jgffjg",
+      "equipmentSerialNumber": "777777",
+      "equipmentCheckbox": "Skradziono",
+      "id": 50
+    },
+    {
+      "equipmentCategory": "fgfcg",
+      "equipmentBrand": "fxgjfg",
+      "equipmentModel": "jgffjg",
+      "equipmentSerialNumber": "888888",
+      "equipmentCheckbox": "Nie Skradziono",
+      "id": 51
+    },
+    {
+      "equipmentCategory": "22",
+      "equipmentBrand": "22",
+      "equipmentModel": "22",
+      "equipmentSerialNumber": "22",
+      "equipmentCheckbox": "Nie Skradziono",
+      "id": 52
+    }
+  ]
+}
