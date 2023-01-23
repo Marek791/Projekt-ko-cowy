@@ -1,13 +1,12 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-
 .info-page {
-  background: linear-gradient( rgba(0,0,0,0.7), rgba(0, 0, 0, 0.7) ),url(../photos/zlodziej.jpg);
-  background-size:contain;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../photos/zlodziej.jpg);
+  background-size: contain;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,10 +18,9 @@
 
 .text-info-page h1 {
   font-size: 30px;
-
 }
 
-p{
+p {
   color: #d48e00;
   font-size: 1.1rem;
   text-align: center;
@@ -31,7 +29,6 @@ p{
 h1 {
   display: flex;
   justify-content: center;
-
 }
 
 h4 {

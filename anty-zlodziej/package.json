@@ -12,7 +12,7 @@
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
     "react-router-dom": "^5.3.0",
-    "react-scripts": "5.0.0",
+    "react-scripts": "^5.0.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -40,7 +40,12 @@
     ]
   },
   "devDependencies": {
+    "browser-sync": "^2.27.11",
     "gulp": "^4.0.2",
-    "ikon": "^0.1.1"
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "ikon": "^0.1.1",
+    "sass": "^1.57.1",
+    "webpack": "^5.75.0"
   }
 }

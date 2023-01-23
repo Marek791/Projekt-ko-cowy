@@ -41,38 +41,6 @@
       "id": 6
     },
     {
-      "equipmentCategory": "komputer",
-      "equipmentBrand": "hp",
-      "equipmentModel": "g6",
-      "equipmentSerialNumber": "5545645",
-      "equipmentCheckbox": "Skradziono",
-      "id": 7
-    },
-    {
-      "equipmentCategory": "komputer",
-      "equipmentBrand": "hp",
-      "equipmentModel": "hdjlw",
-      "equipmentSerialNumber": "5465",
-      "equipmentCheckbox": "Nie Skradziono",
-      "id": 8
-    },
-    {
-      "equipmentCategory": "telefon",
-      "equipmentBrand": "samsung",
-      "equipmentModel": "s21",
-      "equipmentSerialNumber": "786241",
-      "equipmentCheckbox": "Nie Skradziono",
-      "id": 9
-    },
-    {
-      "equipmentCategory": "telefon",
-      "equipmentBrand": "samsung",
-      "equipmentModel": "s21",
-      "equipmentSerialNumber": "655536",
-      "equipmentCheckbox": "Skradziono",
-      "id": 10
-    },
-    {
       "equipmentCategory": "telefon",
       "equipmentBrand": "iphone",
       "equipmentModel": "9",
@@ -132,14 +100,6 @@
       "equipmentCategory": "telefizor",
       "equipmentBrand": "samsung",
       "equipmentModel": "ymusjr",
-      "equipmentSerialNumber": "7621",
-      "equipmentCheckbox": "Nie Skradziono",
-      "id": 18
-    },
-    {
-      "equipmentCategory": "telefizor",
-      "equipmentBrand": "samsung",
-      "equipmentModel": "ymusjr",
       "equipmentSerialNumber": "32456",
       "equipmentCheckbox": "Nie Skradziono",
       "id": 19
@@ -193,204 +153,68 @@
       "id": 25
     },
     {
-      "equipmentCategory": "konsola",
-      "equipmentBrand": "playstation",
-      "equipmentModel": "5",
-      "equipmentSerialNumber": "484557",
-      "equipmentCheckbox": "Nie Skradziono",
-      "id": 26
-    },
-    {
-      "equipmentCategory": "konsola",
-      "equipmentBrand": "playstation",
-      "equipmentModel": "5",
-      "equipmentSerialNumber": "787121",
-      "equipmentCheckbox": "Nie Skradziono",
-      "id": 27
-    },
-    {
-      "equipmentCategory": "konsola",
-      "equipmentBrand": "xbox",
-      "equipmentModel": "xs",
-      "equipmentSerialNumber": "47985",
-      "equipmentCheckbox": "Nie Skradziono",
-      "id": 28
-    },
-    {
-      "equipmentCategory": "konsola",
-      "equipmentBrand": "xbox",
-      "equipmentModel": "xs",
-      "equipmentSerialNumber": "787121",
-      "equipmentCheckbox": "Nie Skradziono",
-      "id": 29
-    },
-    {
-      "equipmentCategory": "konsola",
-      "equipmentBrand": "xbox",
-      "equipmentModel": "xs",
-      "equipmentSerialNumber": "7871212",
+      "equipmentCategory": "telefon",
+      "equipmentBrand": "iphone",
+      "equipmentModel": "a50",
+      "equipmentSerialNumber": "5555",
       "equipmentCheckbox": "Skradziono",
-      "id": 30
+      "id": 70
     },
     {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": 0,
-      "equipmentCheckbox": "Nie Skradziono",
-      "id": 31
+      "equipmentCategory": "telefon",
+      "equipmentBrand": "iphone",
+      "equipmentModel": "a50",
+      "equipmentSerialNumber": "5555",
+      "equipmentCheckbox": "Skradziono",
+      "id": 71
     },
     {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555555",
-      "equipmentCheckbox": "Nie Skradziono",
-      "id": 32
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
+      "equipmentCategory": "telefon",
+      "equipmentBrand": "iphone",
+      "equipmentModel": "a50",
       "equipmentSerialNumber": "5555",
       "equipmentCheckbox": "Nie Skradziono",
-      "id": 33
+      "id": 72
     },
     {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
+      "equipmentCategory": "telefon",
+      "equipmentBrand": "iphone",
+      "equipmentModel": "a50",
       "equipmentSerialNumber": "5555",
       "equipmentCheckbox": "Nie Skradziono",
-      "id": 34
+      "id": 73
     },
     {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
+      "equipmentCategory": "telefon",
+      "equipmentBrand": "iphone",
+      "equipmentModel": "a50",
       "equipmentSerialNumber": "5555",
       "equipmentCheckbox": "Nie Skradziono",
-      "id": 35
+      "id": 74
     },
     {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
+      "equipmentCategory": "telefon",
+      "equipmentBrand": "iphone",
+      "equipmentModel": "a50",
       "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 36
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 37
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 38
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 39
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 40
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 41
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 42
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 43
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 44
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 45
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 46
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 47
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 48
-    },
-    {
-      "equipmentCategory": "21",
-      "equipmentBrand": "21",
-      "equipmentModel": "21",
-      "equipmentSerialNumber": "5555",
-      "equipmentCheckbox": "Skradziono",
-      "id": 49
-    },
-    {
-      "equipmentCategory": "54575",
-      "equipmentBrand": "5544658",
-      "equipmentModel": "5566544",
-      "equipmentSerialNumber": "5445",
       "equipmentCheckbox": "Nie Skradziono",
-      "id": 50
+      "id": 75
+    },
+    {
+      "equipmentCategory": "telefon",
+      "equipmentBrand": "iphone",
+      "equipmentModel": "a50",
+      "equipmentSerialNumber": "5555",
+      "equipmentCheckbox": "Nie Skradziono",
+      "id": 76
+    },
+    {
+      "equipmentCategory": "telefon",
+      "equipmentBrand": "iphone",
+      "equipmentModel": "a50",
+      "equipmentSerialNumber": "5555",
+      "equipmentCheckbox": "Nie Skradziono",
+      "id": 77
     }
   ]
 }

@@ -45,7 +45,13 @@ export default function App() {
             </Switch>
           </Router>
         </div>
-
+        <fotter className="footer">
+          <div className="footer_logo">Antyzłodziej</div>
+          <div className="footer_icon">
+            <img src="../src/components/photos/Facebook.svg" alt="facebook_icon" className="facebook_icon"/>
+            <img src="../src/components/photos/Twitter.svg" alt="twitter_icon" className="twitter_icon"/>
+          </div>
+        </fotter>
       </div>
 
   );

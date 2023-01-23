@@ -14,28 +14,31 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    height:100vh;
+    height:90vh;
     line-height: 2rem;
+    
 }
 
 .input-add {
     margin-left: 10px;
-    height: 1.5rem;
+    height: 2rem;
     width: 100px;
     border-radius: 10px;
-    background-color: #1F232C;
-    color: #FFFFFF;
-
+    background-color: #3b4150;
+    
+}
+.input{
+    margin-left: 50px;
+    margin-top: 20px;
 }
 
 .btn{
-    height: 3rem;
-    width: 5rem;
+    height: 4rem;
+    width: 6rem;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-
 }
 
 .btn-add-section {
@@ -44,12 +47,14 @@
     align-items: center;
     justify-content: center;
     padding-bottom: 150px;
+    margin-top: 15px;
 }
 
 .btn-add-add-section {
     background-color: #d48e00;
     color: #ffffff;
-    font-size: 1rem;
+    font-size: 1.5rem;
+    font-family: "Rubik-Moonrocks", sans-serif;;
 }
 
 .checkbox {
@@ -58,6 +63,9 @@
     margin-left: 10px;
 }
 
+.checkbox_text{
+    margin-top: 20px;
+}
 
 
 

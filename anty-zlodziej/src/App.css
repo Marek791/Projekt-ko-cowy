@@ -8,19 +8,13 @@
     font-size: 2rem;
     font-family: "Rubik-Moonrocks", sans-serif;;
     color: #d9b003;
-
-
+    margin-left: 30px;
 }
 
 .container-app {
     font-size: 0.875rem;
-
-
     background: linear-gradient( rgba(0,0,0,0.5), rgba(0, 0, 0, 0.7) ),url(./components/photos/zdjecie1.jpg) no-repeat;
-
-
-    height: 100vh;
-
+    height: 80vh;
     background-size: contain;
 }
 
@@ -30,15 +24,17 @@
     align-items: center;
     background-color: #1F232C;
     color: #FFFFFF;
-    height: 60px;
-
+    height: 80px;
+    
 
 }
 .menu {
     display: flex;
     flex-direction: row;
     color: #FFFFFF;
-
+    margin-right: 30px;
+    text-align: center;
+    font-family: "Rubik-Moonrocks", sans-serif;;
 }
 .menu li {
     padding: 0 10px;
@@ -59,4 +55,27 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.footer{
+    height: 80px;
+    width: 100%;
+    background: #2c303a;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 13vh;
+}
+.footer_logo{
+    font-size: 120pxpx;
+    font-family: "Rubik-Moonrocks", sans-serif;;
+    color: #d9b003;
+    margin-left: 100px;
+    margin-top: 20px;
+
+}
+.footer_icon{
+    margin-right: 50px;
+    margin-top: 40px;
+}
+.facebook_icon{
+    margin-right: 10px;
 }

@@ -3,10 +3,10 @@ import './Add.scss'
 
 
 export default function Add({}) {
-    const [equipmentCategory, setEquipmentCategory] = useState("21");
-    const [equipmentBrand, setEquipmentBrand] = useState("21");
-    const [equipmentModel, setEquipmentModel] = useState("21");
-    const [equipmentSerialNumber, setEquipmentSerialNumber] = useState(0);
+    const [equipmentCategory, setEquipmentCategory] = useState("");
+    const [equipmentBrand, setEquipmentBrand] = useState("");
+    const [equipmentModel, setEquipmentModel] = useState("");
+    const [equipmentSerialNumber, setEquipmentSerialNumber] = useState();
     const [equipmentCheckbox, setEquipmentCheckbox] = useState(false)
 
     const handleSubmit = (e) => {
@@ -80,7 +80,7 @@ export default function Add({}) {
                    />
                </label>
 
-               <label>
+               <label className="checkbox_text">
                    Zaznacz jeśli chcesz zgłosić kradzież
                    <input
                        className="checkbox checkbox-add-section"
